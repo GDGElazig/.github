@@ -1,2 +1,2 @@
-# .github
-README.md için oluşturulmuş repodur.
+# GDG Elazığ
+Test
